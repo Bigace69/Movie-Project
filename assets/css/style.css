@@ -1,0 +1,15 @@
+*.container {
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+}
+.hero {
+    background-color: red;
+    color: black;
+    font-size: 30px;
+}
+.hero-content {
+    background-color: green;
+    color: pink;
+    font-size: 20px;
+}
