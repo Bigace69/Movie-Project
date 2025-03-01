@@ -1,15 +1,30 @@
 *.container {
+    display: flex;
+    justify-content: right;
+    align-items: right;
     background-color: blue;
-    color: white;
+    color: black;
+    font-size: 20px;
+}
+.navbar {
+    display: flex;
+    justify-content: right;
+    background-color: blue;
+    color: black;
     font-size: 20px;
 }
 .hero {
     background-color: red;
     color: black;
-    font-size: 30px;
+    font-size: 20px;    
 }
 .hero-content {
     background-color: green;
-    color: pink;
+    color: black;
+    font-size: 20px;
+}
+.nav {
+    background-color: yellow;
+    color: black;
     font-size: 20px;
 }
