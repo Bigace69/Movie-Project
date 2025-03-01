@@ -2,10 +2,11 @@
     display: flex;
     justify-content: right;
     align-items: right;
-    background-color: blue;
+    background-color: white;
     color: black;
     font-size: 20px;
 }
+
 .navbar {
     display: flex;
     justify-content: right;
@@ -14,12 +15,12 @@
     font-size: 20px;
 }
 .hero {
-    background-color: red;
+    background-color: white;
     color: black;
     font-size: 20px;    
 }
 .hero-content {
-    background-color: green;
+    background-color: white;
     color: black;
     font-size: 20px;
 }
